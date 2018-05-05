@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+		<name>IceBerg 0</name>
+		<filename>/usr/share/backgrounds/xenlism-finewalls/xenlism-finewalls-iceberg-0.png</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">	
+		<name>IceBerg 1</name>
+		<filename>/usr/share/backgrounds/xenlism-finewalls/xenlism-finewalls-iceberg-1.png</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+    </wallpaper>
+</wallpapers>
