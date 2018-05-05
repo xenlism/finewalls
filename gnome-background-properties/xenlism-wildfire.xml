@@ -4,7 +4,7 @@
     <wallpaper deleted="false">
 
 		<name>Slide 16:9</name>
-		<filename>/usr/share/backgrounds/xenlism-finewalls/xenlism-wildfire-2560x1440.xml</filename>
+		<filename>/usr/share/backgrounds/Xenlism-Finewalls/xenlism-wildfire-2560x1440.xml</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -12,7 +12,7 @@
 		<wallpaper deleted="false">
 		
 		<name>Slide 16:10</name>
-		<filename>/usr/share/backgrounds/xenlism-finewalls/xenlism-wildfire-2560x1600.xml</filename>
+		<filename>/usr/share/backgrounds/Xenlism-Finewalls/xenlism-wildfire-2560x1600.xml</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -20,7 +20,7 @@
 	<wallpaper deleted="false">
 
 		<name>Wild Hill 16:9</name>
-		<filename>/usr/share/backgrounds/xenlism-finewalls/Wild-Hill-2560x1440.png</filename>
+		<filename>/usr/share/backgrounds/Xenlism-Finewalls/Wild-Hill-2560x1440.png</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -28,7 +28,7 @@
 		<wallpaper deleted="false">
 		
 		<name>Wild Hill 16:10</name>
-		<filename>/usr/share/backgrounds/xenlism-finewalls/Wild-Hill-2560x1600.png</filename>
+		<filename>/usr/share/backgrounds/Xenlism-Finewalls/Wild-Hill-2560x1600.png</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -36,7 +36,7 @@
 	<wallpaper deleted="false">
 		
 		<name>Wild And River 16:9</name>
-		<filename>/usr/share/backgrounds/xenlism-finewalls/Wild-Hill-And-River-2560x1440.png</filename>
+		<filename>/usr/share/backgrounds/Xenlism-Finewalls/Wild-Hill-And-River-2560x1440.png</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -44,7 +44,7 @@
 	<wallpaper deleted="false">
 		
 		<name>Wild And River 16:10</name>
-		<filename>/usr/share/backgrounds/xenlism-finewalls/Wild-Hill-And-River-2560x1600.png</filename>
+		<filename>/usr/share/backgrounds/Xenlism-Finewalls/Wild-Hill-And-River-2560x1600.png</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -53,7 +53,7 @@
 		<wallpaper deleted="false">
 		
 		<name>Xenlism WildFire 16:9</name>
-		<filename>/usr/share/backgrounds/xenlism-finewalls/xenlism-wildfire-2560x1440.png</filename>
+		<filename>/usr/share/backgrounds/Xenlism-Finewalls/xenlism-wildfire-2560x1440.png</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -61,7 +61,7 @@
 	<wallpaper deleted="false">
 		
 		<name>Xenlism WildFire 16:10</name>
-		<filename>/usr/share/backgrounds/xenlism-finewalls/xenlism-wildfire-2560x1600.png</filename>
+		<filename>/usr/share/backgrounds/Xenlism-Finewalls/xenlism-wildfire-2560x1600.png</filename>
 		<options>zoom</options>
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
@@ -69,7 +69,7 @@
 	<wallpaper deleted="false">
 	
 	<name>Xenlism WildFire 16:9</name>
-	<filename>/usr/share/backgrounds/xenlism-finewalls/moonlight-2560x1440.png</filename>
+	<filename>/usr/share/backgrounds/Xenlism-Finewalls/moonlight-2560x1440.png</filename>
 	<options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#000000</scolor>
@@ -77,7 +77,7 @@
 <wallpaper deleted="false">
 	
 	<name>Xenlism WildFire 16:10</name>
-	<filename>/usr/share/backgrounds/xenlism-finewalls/moonlight-2560x1600.png</filename>
+	<filename>/usr/share/backgrounds/Xenlism-Finewalls/moonlight-2560x1600.png</filename>
 	<options>zoom</options>
 <pcolor>#ffffff</pcolor>
 <scolor>#000000</scolor>
