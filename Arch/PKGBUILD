@@ -4,16 +4,12 @@
 pkgname=xenlism-finewalls
 pkgver=2018.05.02
 pkgrel=1
-conflicts=("${pkgname}")
-provides=("${pkgname}")
-replaces=("${pkgname}")
 pkgdesc="xenlism-finewalls simplicity wallpapers for desktop"
 arch=("any")
 url="https://xenlism.github.io/xenlism-finewalls"
 license=("GPL3")
 provides=("$pkgname")
 conflicts=("$pkgname")
-replaces=("$pkgname")
 source=("/home/xenatt/Documents/xenlism-finewalls/finewalls-master.tar.gz")
 md5sums=('ba6df980320303dbdc35caf2ed40b90a')
 package() {
