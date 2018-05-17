@@ -58,7 +58,15 @@ sudo dnf install xenlism-finewalls
 sudo wget https://downloads.sourceforge.net/project/xenlism-wildfire/repo/fedora/xenlism-fedora.repo -O /etc/yum.repos.d/xenlism-fedora.repo                            
 sudo rpm --import https://downloads.sourceforge.net/project/xenlism-wildfire/repo/fedora/ixenatt%40gmail.com.pub                               
 sudo yum update                             
-sudo yum install xenlism-finewalls                            
+sudo yum install xenlism-finewalls    
+
+
+#openSuse                    
+sudo zypper ar -f -c https://downloads.sourceforge.net/project/xenlism-wildfire/repo/fedora/ xenlism-fedora              
+sudo gpg --keyserver keyserver.ubuntu.com --recv-keys AFAC0680DB0F3245A643CA37B5C583782B80AC38                         
+sudo zypper refresh                 
+sudo zypper update                
+sudo zypper install xenlism-finewalls                                            
 
 And Other Distro [Click Here](https://xenlism.github.io/wildfire)                        
                         
